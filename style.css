@@ -23,9 +23,17 @@ figcaption{
 #featured-property {
   width: 800px;
   text-align: center;
+  margin: 0 auto;
+}
+#featued property p{
+  margin: 20 px 0;
 }
 .division {
   background-color: darkblue;
   text-align: centre;
   width: 25%;
+  float: left;
+  color: white;
+  box-sizing: border-box;
+  padding: 10px;
 }
